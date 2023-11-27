@@ -1,4 +1,4 @@
-package msa.system.hexagonal.config;
+package msa.system.hexagonal.generic.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.autoconfigure.security.servlet.PathRequest;
